@@ -2186,6 +2186,7 @@ textarea.form-control {
   text-align: center;
   padding: 6px 15px;
   margin: 6px 3px;
+  color: #000;
 }
 .navbar-icons .navbar-nav [class^="pe"] {
   font-size: 30px;
