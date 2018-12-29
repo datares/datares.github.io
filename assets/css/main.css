@@ -1,3 +1,12 @@
+.logo {
+    text-align: center;
+}
+
+.logo img {
+    width: 50%;
+    height: 50%;
+}
+
 .tim-row{
     margin-bottom: 20px;
 }
