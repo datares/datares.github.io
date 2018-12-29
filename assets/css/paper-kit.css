@@ -1959,8 +1959,7 @@ textarea.form-control {
 }
 .navbar .nav-link p {
   margin: 0px 0px;
-  /*color: #9A9A9A !important;*/
-  color: #000;
+  color: #9A9A9A !important;
   text-transform: uppercase;
   font-weight: 600;
   font-size: 12px;
@@ -5683,7 +5682,7 @@ textarea.form-control {
   justify-content: center;
 }
 .page-header .filter::after {
-  /*background-color: rgba(0, 0, 0, 0.5);*/
+  background-color: rgba(0, 0, 0, 0.5);
   content: "";
   display: block;
   height: 100%;
