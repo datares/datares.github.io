@@ -58,6 +58,7 @@
     border-radius: 0 !important;
     margin-bottom: 0;
     z-index: 2;
+    position: fixed;
 }
 .space{
     height: 130px;
@@ -249,7 +250,7 @@
     background-image: url('../img/city.jpg');
 }
 .demo-header .motto{
-    color: #FFFFFF;
+    color: #000000;
     padding-top: 15%;
     text-align: center;
     z-index: 3;
