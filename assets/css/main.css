@@ -70,8 +70,8 @@
     border-radius: 0 !important;
     margin-bottom: 0;
     z-index: 2;
-    position: fixed;
 }
+
 .space{
     height: 130px;
     display: block;
