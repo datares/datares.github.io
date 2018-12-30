@@ -3186,8 +3186,8 @@ textarea.form-control {
 
 @media (min-width: 768px) {
   .navbar-form {
-    margin-top: 21px;
-    margin-bottom: 21px;
+    margin-top: 5px;
+    margin-bottom: 5px;
     padding-left: 5px;
     padding-right: 5px;
   }
@@ -3316,7 +3316,7 @@ textarea.form-control {
 }
 
 .dropdown-sharing li {
-  color: #66615b;
+  color: #000;
   font-size: 14px;
 }
 .dropdown-sharing li .social-line {
@@ -3333,7 +3333,7 @@ textarea.form-control {
 .dropdown-sharing li:focus a,
 .dropdown-sharing li:focus .action-line {
   background-color: #FFFFFF;
-  color: #66615b;
+  color: #000;
   opacity: 1;
   text-decoration: none;
 }
