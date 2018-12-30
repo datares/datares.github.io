@@ -2315,6 +2315,7 @@ textarea.form-control {
   border-radius: 1px;
   margin: 0 auto;
   background: gray;
+  color: black;
 }
 
 .no-transition {
