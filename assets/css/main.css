@@ -8,11 +8,6 @@
     background-repeat: no-repeat;
 }
 
-canvas{
-    display:block;
-    vertical-align: bottom;
-}
-
 .logo {
     text-align: center;
 }
