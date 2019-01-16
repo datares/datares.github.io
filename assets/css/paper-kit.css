@@ -4780,13 +4780,15 @@ textarea.form-control {
     margin-bottom: 2em;
   }
 }
+
+/* Important */
 @media screen and (max-width: 991px) {
   .navbar-collapse {
     position: fixed;
     display: block;
     top: 0;
     height: 100%;
-    width: 230px;
+    width: 250px;
     right: 0;
     z-index: 1032;
     visibility: visible;
