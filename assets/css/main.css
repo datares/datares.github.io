@@ -14,7 +14,22 @@
 }
 
 @media only screen and (min-width: 768px) {
+    .description-img {
+        text-align: center;
+        width: 100%;
+        height: 100%;
+    } 
 
+    .logo img {
+        width: 100%;
+        height: 100%;
+    }
+
+    .footer-logo {
+        text-align: center;
+        width: 60%;
+        height: 55%;
+    }
 }
 
 .description-img {
