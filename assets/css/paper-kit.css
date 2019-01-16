@@ -4834,7 +4834,7 @@ textarea.form-control {
     height: 100%;
     width: 100%;
     position: absolute;
-    background-color: #FFFCF5;
+    background-color: #000000;
     background-image: linear-gradient(to bottom, transparent 0%, rgba(112, 112, 112, 0) 60%, rgba(186, 186, 186, 0.15) 100%);
     display: block;
     content: "";
@@ -4989,7 +4989,7 @@ textarea.form-control {
     overflow-y: visible;
     border-top: none;
     text-align: left;
-    border-left: 1px solid #CCC5B9;
+    border-left: 1px solid #000000;
     padding-right: 0px;
     padding-left: 40px;
     padding-top: 15px;
