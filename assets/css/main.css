@@ -313,6 +313,10 @@
     }
 }
 
+.black {
+    color: black;
+}
+
 @media screen {
     .section-buttons .btn,
     .section-buttons .btn-morphing{
