@@ -4828,6 +4828,8 @@ textarea.form-control {
   .navbar-collapse .navbar-nav > .nav-item > .nav-link:hover, .navbar-collapse .navbar-nav > .nav-item > .nav-link:active {
     color: #403D39 !important;
   }
+
+  /* important */
   .navbar-collapse::after {
     top: 0;
     left: 0;
@@ -4880,8 +4882,9 @@ textarea.form-control {
     display: none;
   }
 
+  /* important */
   .fixed-top .navbar-collapse {
-    background-color: #FF8F5E;
+    background-color: #000000;
     float: left;
   }
 
