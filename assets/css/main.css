@@ -19,6 +19,10 @@
     height: 100%;
 }
 
+.hfonts {
+    font-family: 'Montserrat', sans-serif;
+}
+
 .media-icons {
     color: black;
     font-size: 3.0em;
