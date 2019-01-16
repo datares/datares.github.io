@@ -29,10 +29,10 @@ particlesJS('particles-js',
         "type": "circle",
         "stroke": {
           "width": 0,
-          "color": "#000000"
+          "color": "#FFFFFF"
         },
         "polygon": {
-          "nb_sides": 5
+          "nb_sides": 6
         },
         "image": {
           "src": "img/github.svg",
