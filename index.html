@@ -40,16 +40,16 @@
                     <span class="navbar-toggler-bar" style="color: black;">-</span>
                     -->
                     <span style="font-size: 1.5em;">
-                        <i id="plus" onClick="changeIcon()" class="fa fa-plus"></i>
+                        <i id="plus" onClick="changeIcon()" class="fa fa-plus-circle"></i>
                     </span>  
 
                     <script>
-                        function changeIcon(){
+                        function changeIcon() {
                             var element = document.getElementById("plus");
-                            if (element.className === 'fa fa-plus'){
-                                element.className = 'fa fa-minus';
-                            } else if (element.className === 'fa fa-minus'){
-                                element.className = 'fa fa-plus';
+                            if (element.className === 'fa fa-plus-circle'){
+                                element.className = 'fa fa-minus-circle';
+                            } else if (element.className === 'fa fa-minus-circle'){
+                                element.className = 'fa fa-plus-circle';
                             }
                         }
                     </script>
