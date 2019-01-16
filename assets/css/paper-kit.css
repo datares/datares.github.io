@@ -4948,6 +4948,7 @@ textarea.form-control {
     background-color: white;
   }
 }
+
 @media screen and (min-width: 767px) {
   .section-sections .section-cols {
     position: relative;
@@ -4994,6 +4995,7 @@ textarea.form-control {
     border-top: none;
     text-align: left;
     border-left: 1px solid #000000;
+    background: #000000;
     padding-right: 0px;
     padding-left: 40px;
     padding-top: 15px;
