@@ -13,6 +13,10 @@
     text-align: center;
 }
 
+@media only screen and (min-width: 768px) {
+
+}
+
 .description-img {
     text-align: center;
     width: 60%;
