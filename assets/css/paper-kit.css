@@ -4830,13 +4830,13 @@ textarea.form-control {
   }
   .navbar-collapse::after {
     top: 0;
-    left: 0;
+    left: -1.em;
     height: 100%;
     width: 100%;
     position: absolute;
     background-color: rgba(0,0,0,0.7);
     background-image: linear-gradient(to bottom, transparent 0%, rgba(112, 112, 112, 0) 60%, rgba(186, 186, 186, 0.15) 100%);
-    display: block;
+    display: inline-block;
     content: "";
     z-index: 1;
   }
