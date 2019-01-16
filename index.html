@@ -39,7 +39,21 @@
 					<span class="navbar-toggler-bar" style="color: black;">-</span>
                     <span class="navbar-toggler-bar" style="color: black;">-</span>
                     -->
-                    <i class="fa fa-plus"></i>
+                    <span style="font-size: 1.5em;">
+                        <i id="plus" onClick="changeIcon()" class="fa fa-plus"></i>
+                    </span>  
+
+                    <script>
+                        function changeIcon(){
+                            var element = document.getElementById("plus");
+                            if (element.className === 'fa fa-plus'){
+                                element.className = 'fa fa-minus';
+                            } else if (element.className === 'fa fa-minus'){
+                                element.className = 'fa fa-plus';
+                            }
+                        }
+                    </script>
+
 	            </button>
 			</div>
 	        <div class="collapse navbar-collapse" id="navbarToggler">
