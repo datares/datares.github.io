@@ -1185,6 +1185,8 @@
     z-index: 2;
 }
 
+
+
 .card-container {
     display: inline-block;
     margin: 0 auto;
@@ -1194,6 +1196,7 @@
 }
 .card {
   position: relative;
+  display: inline-block;
   width: 400px;
   height: 400px;
   background: rgba(255, 255, 255, 0);
