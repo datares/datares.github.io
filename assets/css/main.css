@@ -1205,8 +1205,8 @@
     background: white;
     top: 0;
     left: 0;
-    width: 55%;
-    height: 55%;
+    width: 480px;
+    height: 480px;
     border-radius: 5px;
     color: black;
     box-shadow: 0 27px 55px 0 rgba(0, 0, 0, 0.3), 0 17px 17px 0 rgba(0, 0, 0, 0.15);
