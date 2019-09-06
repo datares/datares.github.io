@@ -1195,14 +1195,14 @@
 .card {
   position: relative;
   width: 400px;
-  height: 400px;
+  height: 1px;
   transition: all 0.6s ease;
   transform-style: preserve-3d;
 }
 
 .front, .back {
     position: absolute;
-    background: white;
+    background: #d6d6d6;
     top: 0;
     left: 0;
     width: 400px;
