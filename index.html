@@ -120,7 +120,7 @@
                             .typewriter h5 {
                                 color: #000000;
                                 font-family: monospace;
-                                overflow: visible; /* Ensures the content is not revealed until the animation */
+                                overflow: hidden; /* Ensures the content is not revealed until the animation */
                                 border-right: .15em solid orange; /* The typwriter cursor */
                                 white-space: nowrap; /* Keeps the content on a single line */
                                 margin: 0 auto; /* Gives that scrolling effect as the typing happens */
@@ -144,12 +144,10 @@
                                 }
                         </style>
 
-                        <div class="typewriter text-center">
-                            <span style="margin: 0 auto;"> 
+                        <div class="typewriter text-center" style="overflow: >
                                 <h5>
                                     <strong>The Premier Data Science Organization @ UCLA</strong>
                                 </h5>
-                            </span>
                         </div>
 
                         <br/><br/>
