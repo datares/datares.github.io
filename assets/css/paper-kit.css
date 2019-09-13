@@ -2011,11 +2011,11 @@ textarea.form-control {
   font-size: 0.5em;
 }
 .navbar .btn i {
-  font-size: 0.875em;
+  font-size: 0.5em;
   line-height: 0.8125em;
 }
 .navbar .btn-simple {
-  font-size: 1em;
+  font-size: 0.5em;
 }
 .navbar .caret {
   left: 0;
@@ -2304,6 +2304,7 @@ textarea.form-control {
 
 .navbar .navbar-burger {
   margin-top: 1.25em;
+  margin-right:1.25em;
   color: black;
 }
 
