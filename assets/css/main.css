@@ -421,7 +421,7 @@
     min-height: 31.25em;
     width: 18.75em;
     position: relative;
-    margin-top: 90px;
+    margin-top: 5.625em;
 }
 .presentation .card-component{
     -webkit-transform-style: preserve-3d;
@@ -856,7 +856,7 @@
     font-weight: 500;
 }
 #buyButtonHeroes{
-    margin-top: 1.9375px;
+    margin-top: 1.9375em;
 }
 .right-click{
     width: 100%;
@@ -979,7 +979,7 @@
 }
 
 .container-right-click h4{
-    color: white;margin-top: 45px;font-weight: 200;margin-bottom: 0;
+    color: white;margin-top: 2.8125em;font-weight: 200;margin-bottom: 0;
 }
 .icon-class{
     fill: #75c3b6;
@@ -1109,13 +1109,13 @@
     display: none;
 }
 
-@media only screen and (min-width: 768px) {
+@media only screen and (min-width: 48em) {
     .demo-icons ul li {
         width: 20%;
         float: left;
     }
 }
-@media only screen and (min-width: 1024px) {
+@media only screen and (min-width: 64em) {
     .demo-icons ul li {
         width: 12.5%;
         float: left;
@@ -1123,7 +1123,7 @@
     }
 }
 
-@media screen and (max-width: 991px){
+@media screen and (max-width: 61.9375em){
     .following .follows .row{
         text-align: center;
     }
@@ -1163,19 +1163,19 @@
     border-right: 0;
     color: #666;
     display: block;
-    margin-top: 20px;
-    padding: 8px 0;
+    margin-top: 1.25em;
+    padding: 0.5em 0;
     text-align: center;
 }
 .area-line a{
     color: #666;
 }
 .container-fluid{
-    padding-right: 15px;
-    padding-left: 15px;
+    padding-right: 0.9375em;
+    padding-left: 0.9375em;
 }
 .example-pages{
-    margin-top: 50px;
+    margin-top: 3.125em;
 }
 .main .section:first-of-type{
     position: relative;
