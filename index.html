@@ -375,6 +375,18 @@
                                                             </div>
                                                         </div>
                                                     </div>
+                                                    <script>
+                                                        var card = document.getElementById('card');
+                                                        card.addEventListener('click', function() {
+                                                            if (!this.classList.contains('on')) {
+                                                                this.classList.remove('off');
+                                                                this.classList.add('on');
+                                                            } else {
+                                                                this.classList.remove('on');
+                                                                this.classList.add('off');
+                                                            }
+                                                        });
+                                                    </script>
                                                 <h4 class="info-title"> Movie Ratings Analysis </h4><br/>
                                                 <a href="https://medium.com/@ucladatares/movie-ratings-analysis-478c0de6c9f8" target="_blank">
                                                     Read the Article
