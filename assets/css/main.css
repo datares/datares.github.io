@@ -1208,7 +1208,6 @@
 
 .front, .back {
     position: absolute;
-    background: #000000;
     top: 0;
     left: 0;
     width: 100%;
