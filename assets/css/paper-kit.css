@@ -854,18 +854,18 @@ input[type="file"] > input[type="button"]::-moz-focus-inner {
 }
 
 .btn-just-icon.btn-sm {
-  height: 1.875em;
-  width: 1.875em;
-  min-width: 1.875em;
+  height: 5em;
+  width: 5em;
+  min-width: 5em;
   padding: 0;
 }
 .btn-just-icon.btn-sm i {
   font-size: 0.75em;
 }
 .btn-just-icon.btn-lg {
-  height: 3.125em;
-  width: 3.125em;
-  min-width: 3.125em;
+  height: 5em;
+  width: 5em;
+  min-width: 5em;
   padding: 0.8125em;
 }
 .btn-just-icon.btn-lg i {
@@ -5171,8 +5171,8 @@ textarea.form-control {
 .bootstrap-datetimepicker-widget table th.prev::after,
 .bootstrap-datetimepicker-widget table th.next::after {
   position: absolute;
-  width: 0.0625em;
-  height: 0.0625em;
+  width: 5em;
+  height: 5em;
   margin: -0.0625em;
   padding: 0;
   overflow: hidden;
