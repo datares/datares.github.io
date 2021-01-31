@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.39a85ff5.chunk.css",
-    "main.js": "/static/js/main.62412802.chunk.js",
-    "main.js.map": "/static/js/main.62412802.chunk.js.map",
+    "main.css": "/static/css/main.b8ae677e.chunk.css",
+    "main.js": "/static/js/main.09d06f22.chunk.js",
+    "main.js.map": "/static/js/main.09d06f22.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.5040c8c8.js",
     "runtime-main.js.map": "/static/js/runtime-main.5040c8c8.js.map",
     "static/css/2.5f1adba5.chunk.css": "/static/css/2.5f1adba5.chunk.css",
-    "static/js/2.98e5d267.chunk.js": "/static/js/2.98e5d267.chunk.js",
-    "static/js/2.98e5d267.chunk.js.map": "/static/js/2.98e5d267.chunk.js.map",
+    "static/js/2.90acb16f.chunk.js": "/static/js/2.90acb16f.chunk.js",
+    "static/js/2.90acb16f.chunk.js.map": "/static/js/2.90acb16f.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.aaa5088078c39719e285e114a6476b5f.js": "/precache-manifest.aaa5088078c39719e285e114a6476b5f.js",
+    "precache-manifest.59c59a0b60bb33dbf1e8a5bf11edac4a.js": "/precache-manifest.59c59a0b60bb33dbf1e8a5bf11edac4a.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.5f1adba5.chunk.css.map": "/static/css/2.5f1adba5.chunk.css.map",
-    "static/css/main.39a85ff5.chunk.css.map": "/static/css/main.39a85ff5.chunk.css.map",
-    "static/js/2.98e5d267.chunk.js.LICENSE.txt": "/static/js/2.98e5d267.chunk.js.LICENSE.txt",
+    "static/css/main.b8ae677e.chunk.css.map": "/static/css/main.b8ae677e.chunk.css.map",
+    "static/js/2.90acb16f.chunk.js.LICENSE.txt": "/static/js/2.90acb16f.chunk.js.LICENSE.txt",
     "static/media/andy.png": "/static/media/andy.d443c288.png",
     "static/media/arnav.png": "/static/media/arnav.6a37e4b9.png",
     "static/media/background.svg": "/static/media/background.9d7a54fc.svg",
@@ -35,14 +35,15 @@
     "static/media/raghava.png": "/static/media/raghava.e418adc4.png",
     "static/media/research_image.svg": "/static/media/research_image.b775d059.svg",
     "static/media/team_wave.svg": "/static/media/team_wave.917a605b.svg",
+    "static/media/ucla-athletics.png": "/static/media/ucla-athletics.67bcf95e.png",
     "static/media/varchasvi.png": "/static/media/varchasvi.f7c1a358.png",
     "static/media/wave.svg": "/static/media/wave.25e1976e.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.5040c8c8.js",
     "static/css/2.5f1adba5.chunk.css",
-    "static/js/2.98e5d267.chunk.js",
-    "static/css/main.39a85ff5.chunk.css",
-    "static/js/main.62412802.chunk.js"
+    "static/js/2.90acb16f.chunk.js",
+    "static/css/main.b8ae677e.chunk.css",
+    "static/js/main.09d06f22.chunk.js"
   ]
 }

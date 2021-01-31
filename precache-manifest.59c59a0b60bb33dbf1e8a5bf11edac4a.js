@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "25244519e5bf3e45e0c11ce4b7d80a90",
+    "revision": "47fdc92e2bc12e0b0fbba72b6fea4f51",
     "url": "/index.html"
   },
   {
-    "revision": "5a2de612ad8e5b42e94a",
+    "revision": "a3424ebc39f1361c3399",
     "url": "/static/css/2.5f1adba5.chunk.css"
   },
   {
-    "revision": "6bae83719c13ed436222",
-    "url": "/static/css/main.39a85ff5.chunk.css"
+    "revision": "7190e7934c219285813d",
+    "url": "/static/css/main.b8ae677e.chunk.css"
   },
   {
-    "revision": "5a2de612ad8e5b42e94a",
-    "url": "/static/js/2.98e5d267.chunk.js"
+    "revision": "a3424ebc39f1361c3399",
+    "url": "/static/js/2.90acb16f.chunk.js"
   },
   {
     "revision": "660b51dc7bed49ff6652ad5ac02ed206",
-    "url": "/static/js/2.98e5d267.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.90acb16f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "6bae83719c13ed436222",
-    "url": "/static/js/main.62412802.chunk.js"
+    "revision": "7190e7934c219285813d",
+    "url": "/static/js/main.09d06f22.chunk.js"
   },
   {
     "revision": "4585e951fb546118c17c",
@@ -174,6 +174,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "917a605bba8e03820eaa8a3b585ec628",
     "url": "/static/media/team_wave.917a605b.svg"
+  },
+  {
+    "revision": "67bcf95e2ace8c60bb7664fc7a31e785",
+    "url": "/static/media/ucla-athletics.67bcf95e.png"
   },
   {
     "revision": "f7c1a35824e21fbce6e0eb26c7b56ed4",
